@@ -1,0 +1,128 @@
+\documentclass{exam}
+\parindent 0px
+\pagestyle{empty}
+\usepackage{amssymb}
+\usepackage{fancyhdr}
+\usepackage{lipsum}
+\usepackage{graphicx} 
+
+
+\title{PROGRAMMING PRATICES PROJECT}
+\author{LOkesh Waghe}
+\date{30 oct 2023}
+\pagestyle{fancy}
+\fancyhead{}
+\fancyfoot{}
+\fancyfoot[R]{\thepage}
+
+\begin{document}
+
+\begin{center}
+\textbf{Finial Submission}\\
+   \huge \textbf{PROGRAMMING PRATICES} \\
+   \textbf{Project :- 01} \\
+      \textbf{Topic :- Snake Game} \\
+   
+   \textbf{Lokesh Waghe}\\
+   \textbf{Enrollment no.- 0801CS221080 (SEC-A)}
+   \textbf{ Section - A}\\
+    \par\noindent\rule{\textwidth}{0.5pt}
+\end{center}
+
+\begin{center}
+
+   \includegraphics[width= 10cm]{ppsnake.png}
+\end{center}
+
+INTRODUCTION :-
+\begin{itemize}
+    \item 
+    Welcome to 'Slithering Success: Unraveling the Secrets of the Snake Game'! In this presentation, we will explore the fascinating world of the classic Snake game. We will delve into its history, gameplay mechanics, and strategies for achieving high scores. Get ready to embark on a thrilling journey into the realm of retro gaming!
+    
+\end{itemize}
+\newpage
+History of Snake Game :-
+\begin{itemize}
+    \item The Snake game originated in the 197s and gained popularity on early mobile phones in the late 199s. It was first introduced on the Nokia 611. The objective is to control a growing snake, represented by a line, and guide it to eat food while avoiding collisions with the snake's own body and the game boundaries. Let's explore the evolution of this iconic game!
+
+\end{itemize}
+
+
+Gameplay Mechanics :-
+\begin{itemize}
+    \item  The Snake game is played on a grid-based board. The snake moves in four directions: up, down, left, and right. It grows longer with each piece of food consumed. The game ends if the snake collides with itself or the boundaries. To control the snake, players use arrow keys or swipe gestures on touchscreens. Mastering precise movements and anticipating future positions are key to success!
+
+    
+    \end{itemize}
+
+Strategies for High Scores :-
+\begin{itemize}
+  
+   \item  1) Focus on eating food strategically to maximize snake growth.
+   \item   2) Utilize the boundaries to your advantage, creating safe zones.
+    \item 3) Plan ahead and anticipate the snake's movements to avoid collisions. 
+    \item 4) Maintain a balance between speed and control. Mastering these techniques will help you climb the leaderboard!
+
+\end{itemize}
+
+Snake Game Variations
+\begin{itemize}
+  
+   \item 
+   Over the years, numerous variations of the Snake game have emerged. Some versions introduce power-ups, obstacles, or multiple snakes. Others add complexity with teleportation portals or time limits. These variations offer unique challenges and keep the game fresh. Explore different iterations of the Snake game to experience new twists and test your skills . These adaptations have attracted new audiences and kept the Snake Game relevant in the ever-changing gaming landscape!
+    \end{itemize}
+
+
+    Process of Design :-
+
+    \begin{itemize}
+  
+   \item Here I am designing a website for the classic game of Snake. There are several ways to approach this task, but one popular method is to use HTML, CSS, and JavaScript. So , here i use HTML, CSS, and JavaScript. Basically i am having somehow knowledge about web development . So, i tried to make a website in which a snake game is played .
+   \item By HTML , the website is created and some written work is done .
+   \item By CSS , the colouring of text and background is done in a proper way . I try the best colour for the background and the page display which matches the combinations and looks attractive .
+   
+ \end{itemize}
+
+ Purpose Of Design :-
+     \begin{itemize}
+  
+   \item  Purpose of designing this game website is in the pervious time the this game is launched in the nokia mobile . Nokia mobile is in very small size and the screen of that is also small in use . so, by that most of the person , children were not able to play this game in a  good manner . So by development of this website the candidates can play this game in big screen and controls the snake movements in good manner and score high . 
+ 
+     \end{itemize}
+
+
+Aim of Game :-
+\begin{itemize}
+  
+   \item  The aim of the classic game Snake is to control a snake that moves around a board and eats food (represented by dots) while avoiding obstacles such as walls and the snake’s own body. As the snake eats food, it grows longer, making it more challenging to avoid obstacles and not collide with itself. The game continues until the snake collides with an obstacle or itself 
+   
+ \end{itemize}
+
+ Instruction :-
+ \begin{itemize}
+  
+   \item Here are the instructions to play the Snake game:
+
+\item [1] Use the arrow keys on your keyboard to move the snake in the desired direction.
+\item [2]The objective of the game is to eat as many apples as possible to grow longer.
+\item [3]Be careful not to hit the walls or your own tail, as this will end the game immediately.
+\item [4]Your high score is calculated based on the number of squares you added to the snake.
+\item [5]You win the game when there is no more room for your snake to grow
+
+    \end{itemize}
+ 
+
+ Output of the game :-
+ \begin{itemize}
+  
+   \item
+    \end{itemize}
+
+    \begin{center}
+
+  
+   \includegraphics[width= 10cm]{projectimage.png}
+\end{center}
+ \par\noindent\rule{\textwidth}{0.5pt}
+ 
+ \end{document}
